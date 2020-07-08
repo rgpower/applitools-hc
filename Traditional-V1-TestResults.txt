@@ -1,0 +1,316 @@
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to favorites, DOM Id: DIV__griditem__211, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to compare, DOM Id: DIV__griditem__211, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to cart, DOM Id: DIV__griditem__211, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Tools Account Btn Reloads Window, DOM Id: A__accesslink__56, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Cart Btn Reloads Window, DOM Id: A__cartbt__49, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Account Btn Reloads Window, DOM Id: A__accesslink__56, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Tools Cart Btn Reloads Window, DOM Id: A__cartbt__49, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Chrome 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Chrome 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Chrome 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to favorites, DOM Id: DIV__griditem__211, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to compare, DOM Id: DIV__griditem__211, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to cart, DOM Id: DIV__griditem__211, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Tools Account Btn Reloads Window, DOM Id: A__accesslink__56, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Cart Btn Reloads Window, DOM Id: A__cartbt__49, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Account Btn Reloads Window, DOM Id: A__accesslink__56, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Tools Cart Btn Reloads Window, DOM Id: A__cartbt__49, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Firefox 78, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Firefox 78, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Firefox 78, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to favorites, DOM Id: DIV__griditem__211, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to compare, DOM Id: DIV__griditem__211, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to cart, DOM Id: DIV__griditem__211, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Tools Account Btn Reloads Window, DOM Id: A__accesslink__56, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Cart Btn Reloads Window, DOM Id: A__cartbt__49, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Account Btn Reloads Window, DOM Id: A__accesslink__56, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Tools Cart Btn Reloads Window, DOM Id: A__cartbt__49, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Chromium 86, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Chromium 86, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Chromium 86, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to favorites, DOM Id: DIV__griditem__211, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to compare, DOM Id: DIV__griditem__211, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Grid Item Hover Options Add to cart, DOM Id: DIV__griditem__211, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 1, Test Name: Top Tools Account Btn Reloads Window, DOM Id: A__accesslink__56, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Cart Btn Reloads Window, DOM Id: A__cartbt__49, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 1, Test Name: Top Tools Account Btn Reloads Window, DOM Id: A__accesslink__56, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Tools Cart Btn Reloads Window, DOM Id: A__cartbt__49, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Search 10K, DOM Id: INPUTtext____42, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Mobile Search, DOM Id: A__btnsearchm__59, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Sort, DOM Id: OPTION____195, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Filters, DOM Id: A__openfilter__206, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox Grid, DOM Id: I__tiviewgrid__202, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Toolbox List, DOM Id: I__tiviewlist__204, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Menu Bar, DOM Id: A__showsubmen__23, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Top Tools Wishlist, DOM Id: A__wishlist__52, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Sidebar, DOM Id: sidebar_filters, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Quick Links, DOM Id: H3____421, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Contacts, DOM Id: A____435, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Footer Keep in touch, DOM Id: H3____447, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Your email, DOM Id: email_newsletter, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to favorites, DOM Id: A__tooltip__224, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to compare, DOM Id: A__tooltip__228, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 1, Test Name: Grid Item Non-Hover Options Add to cart, DOM Id: A__tooltip__232, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 2, Test Name: Shopping Cart Experience, DOM Id: product_grid, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Edge 83, Viewport: 1200x700, Device: Laptop, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Edge 83, Viewport: 768x700, Device: Tablet, Status: Pass
+Task 3, Test Name: Product Details SKU, DOM Id: SMALL____84, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Size Picker, DOM Id: DIV__customsele__92, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Old Price Formatting, DOM Id: old_price, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details New Price Formatting, DOM Id: new_price, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Cart Options Check Overlaps, DOM Id: DIV__prodoption__87, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Top Tools Check Overlaps, DOM Id: UL__toptools__46, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass
+Task 3, Test Name: Product Details Ratings Check Overlaps, DOM Id: SPAN__rating__76, Browser: Edge 83, Viewport: 500x700, Device: Mobile, Status: Pass

@@ -1,0 +1,10 @@
+{
+    "reporter": "cypress/reporters/applifashion.js",
+    "reporterOptions": {
+      "toConsole": true
+    },
+   "firefoxGcInterval": {
+      "runMode": null,
+      "openMode": null
+    }
+}
