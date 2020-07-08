@@ -33,7 +33,7 @@ The spec files for the tasks can be found here:
 * [TraditionalTestsV2/cypress/integration/applifashion/task2.spec.js](TraditionalTestsV2/cypress/integration/applifashion/task2.spec.js)
 * [TraditionalTestsV2/cypress/integration/applifashion/task3.spec.js](TraditionalTestsV2/cypress/integration/applifashion/task3.spec.js)
 
-The reporter used to generate the required output format is [cypress/reporters/applifashion.js](./cypress/reporters/applifashion.js)
+The reporter used to generate the required output format is [TraditionalTestsV1/cypress/reporters/applifashion.js](TraditionalTestsV1/cypress/reporters/applifashion.js)
 
 ## TRADITIONAL TESTING SETUP
 
