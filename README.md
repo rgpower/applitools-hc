@@ -1,5 +1,13 @@
 # APPLITOOLS CROSS BROWSER TESTING HACKATHON SUBMISSION
 
+## 🏆 I am very proud to report that [I placed gold](https://applitools.com/2020-cross-browser-testing-hackathon-winners/#:~:text=Rick%20Power) in this visual testing competition!
+
+This competition served as a demonstration of how difficult it is to do visual testing using
+traditional browser automation techniques.  In particular, detection of css-related errors
+(unexpected hidden elements etc), and comparison of page layouts and embedded media are almost
+impossible to detect reliably without assistance from a automated visual testing system like
+[Applitools](https://applitools.com/).
+
 # OPENING REMARKS
 
 I have to admit, it was a shocking experiencing deleting all of the hard-won assertions from the
